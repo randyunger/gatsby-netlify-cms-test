@@ -23,8 +23,8 @@ organizers:
   title: Group Organizers
   gallery:
     - image: /img/organizer-1.jpg
-      imageAlt: Tom Cruise
-      name: Tom Cruise
+      imageAlt: Tom Dolphin
+      name: Tom Dolphin
     - image: /img/organizer-2.jpg
       imageAlt: Tom Hanks
       name: Tom Hanks
